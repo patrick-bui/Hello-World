@@ -8,6 +8,7 @@
 2. Edit the repository & add in important information
 3. Add any markdown syntax to personalize repository
 4. Commit changes when finished & submit
+5. If any files needed to be added in repository - go to "Add File" tab and create one that GitHub can read & transfer into your repository
 ## *Files Used*
 * No additional files were used in this project
 * Markdown syntax used in this project : [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) & [Basic Writing and Fromatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
